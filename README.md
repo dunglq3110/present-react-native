@@ -21,7 +21,6 @@ Welcome to the **React Native Examples** repository! This repository contains a 
 React Native is a framework that allows you to build mobile applications using JavaScript and React. It’s essential to understand the core concepts and the development process before jumping into writing code.
 
 Here’s a **[Roadmap to learn React Native](https://roadmap.sh/react-native)**:  
-![React Native Roadmap](https://roadmap.sh/roadmaps/react-native.png)
 
 ### Key Topics from the Roadmap:
 - **Core React Native concepts**: Learn about JSX, Components, Props, State, and the basic structure of React Native apps.
