@@ -4,6 +4,7 @@ import { StyleSheet, Text, View, TextInput, Button } from 'react-native';
 
 export default function App() {
   // State to store input value and message
+  
   const [inputValue, setInputValue] = useState('');
   const [message, setMessage] = useState('');
 
